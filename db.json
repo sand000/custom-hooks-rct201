@@ -1,0 +1,9 @@
+{
+    "posts": [
+        {"id": 1, "messsage": "a bd dd"},
+        {"id": 2, "messsage": "b bd dd"},
+        {"id": 3, "messsage": "c bd dd"},
+        {"id": 4, "messsage": "d bd dd"},
+        {"id": 5, "messsage": "e bd dd"}
+    ]
+}
